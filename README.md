@@ -14,7 +14,7 @@ I'm open to collaborating on data science projects and learning from others. If 
 
 ## Contact Me
 
-You can reach me via email at [Fatma.mannai19@@gmail.com] or connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/fatma-mannai-a04507203/)).
+You can reach me via email at [Gmail: Fatma.mannai19@@gmail.com] or connect with me on [LinkedIn: https://www.linkedin.com/in/fatma-mannai-a04507203/].
 
 <!---
 Fatma-Manai/Fatma-Manai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
